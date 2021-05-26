@@ -18,7 +18,8 @@
 ### 안나에게 이런걸 물어봐줘요😀
 ```markdown
 Q1. 과제를 하는데 자꾸 오류가 나요😟
-A1. 오류 이름을 봐주세요! NameError, SyntaxError, ModuleNotFoundError 같은 메시지가 있어요! 이 단어를 물어봐주면 돼요!
+A1. 오류 이름을 봐주세요! NameError, SyntaxError, ModuleNotFoundError 같은 메시지가 있어요!
+이 단어를 물어봐주면 돼요!
 ```
 
 ```markdown
