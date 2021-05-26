@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## 파이썬 도우미 안나!
+
+안녕! 나는 파이썬 도우미 안나야!!!
+선생님을 대신해서 기본적인 파이썬을 알려줄 수 있어!!
+뭐? 파이썬 고수냐구...?
+아... 고수까지는 아니고ㅠㅠ...
+지금 [Jump to python](https://wikidocs.net/book/1)에서 for문까지 공부했어...!!! 헤헤.
+그 이외의 것을 물어보면 잘 대답해줄 자신이 없네..ㅠㅠㅠ
+
+나와 대화하고 싶으면 오른쪽 아래에 
+
 
 You can use the [editor on GitHub](https://github.com/s2ky/LDY/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
