@@ -37,28 +37,9 @@ A3. 간단한 질문을 해보세요!! 음식은 무엇을 좋아하는지.. 취
 그런데 안나는 대답하기 싫으면 계속 못알아듣는척 하더라구요?? 과연 그녀의 철벽을 뚫을 수 있을까?!
 ```
 
+```markdown
+Q4. 흐흐흐😈 안나에게 삐- 하고 삐- 한 이야기 해도 되나요?
+A4. 선생님은 삐-하고 삐-한 이야기를 하는 네가 누군지 모른다.
+하지만 널 찾아내서 그 내용을 가족 앞에서 낭독하게 할 것이다.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s2ky/LDY/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
